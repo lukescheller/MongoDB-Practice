@@ -1,0 +1,20 @@
+{
+  "name": "functional_refactoring",
+  "version": "1.0.0",
+  "description": "final backend practice of react+node tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luke scheller 2020",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "config": "^3.2.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.8.7",
+    "nodemon": "^2.0.2"
+  }
+}

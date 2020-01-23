@@ -1,0 +1,4 @@
+{
+    "MongoDB": "mongodb+srv://functional123:functional123@functional123-7i5ve.mongodb.net/test?retryWrites=true&w=majority",
+    "jwt_key": "secret"
+}
