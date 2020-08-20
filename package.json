@@ -9,7 +9,7 @@
   "author": "luke scheller 2020",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "config": "^3.2.5",
     "express": "^4.17.1",
     "express-validator": "^6.3.1",
